@@ -1,2 +1,2 @@
-geopy==2.2.0
 geodesic
+geopy==2.2.0
